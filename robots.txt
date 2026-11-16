@@ -1,2 +1,5 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://pennertech.com.br/site-larissa-naves/sitemap.xml
+Sitemap: https://pennertech.com.br/balanca-epsilon/sitemap.xml
